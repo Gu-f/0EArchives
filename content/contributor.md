@@ -13,6 +13,7 @@ showZenMode: false
 showRelatedContent: false
 authors:
   - Gu-f
+  - BigDawnGhost
 ---
 
 感谢每一位0e档案的贡献者.  
