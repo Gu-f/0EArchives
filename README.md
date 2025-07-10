@@ -32,11 +32,11 @@ git status`  # 确保处于分离状态，显示 HEAD detached at v2.87.0
 
 **Apache-2.0 license**
 
-[ZH]
+[ZH]  
 许可仅适用于原创内容，对于非原创的收录内容，请遵循原协议。  
 由于内容来源于网友贡献，对于非原创内容，如无意中侵权，请提交相关原创证明，在[该处](https://github.com/Gu-f/0EArchives/issues)反馈，将会第一时间删除。
 
-[EN]
+[EN]  
 The license only applies to original content. For non-original included content, please follow the original agreement.  
 Since some of the content is contributed by users, if any non-original material unintentionally infringes upon your rights, please submit proof of authorship
 via [this link](https://github.com/Gu-f/0EArchives/issues). We will remove the content as soon as possible upon verification.  
