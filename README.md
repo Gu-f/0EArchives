@@ -13,20 +13,22 @@
 Theme Ver: 2.87.0
 
 #### 拉取主题子模块
-
+```
 `git submodule update --init --recursive`  # 初始化并更新子模块  
 `git submodule update --recursive --remote`  # 后续主仓如果更新了子模块指针，则使用该命令更新子模块  
 `git submodule status`  # 检查子模块状态  
 
 `hugo server --bind="0.0.0.0" --port=12345 -D --baseURL="http://127.0.0.1:12345"` # 开发Server  
+```
 
 #### 子模块版本切换
-
+```
 `cd themes/blowfish`  # 进入子模块文件夹  
 `git fetch --tags`  # 拉取Tag版本号  
 `git tag -l`  # 查看Tag版本号  
 `git checkout tags/v2.87.0`  # 切换到2.87.0版本  
 `git status`  # 确保处于分离状态，显示 HEAD detached at v2.87.0
+```
 
 ### License
 
