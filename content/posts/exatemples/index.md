@@ -38,3 +38,6 @@ authors = ["Gu-f"]
 
 这只是一个样例，具体介绍风格以及布局可自行调整。  
 支持Markdown语法，Html语法。
+
+这是我做的写的新内容测试
+This is test content。
